@@ -1,4 +1,4 @@
-# WebDriverIO Project with TypeScript
+# Cypress Project with TypeScript and Cucumber
 
 This project uses Cypress with TypeScript and Cucumber for automated testing.
 
